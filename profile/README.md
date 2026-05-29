@@ -1,7 +1,7 @@
 # GIMP Advanced Photo Editing and Open Source Image Editing Workspace
 
 <div align="center">
-  <img src="https://www.xn--80aaexjatkpdggghih8b1a2yhv.com.ua/thumbs/brands/l/9920-gimp_logo.webp" alt="Program Logo"/>
+  <img src="https://res.cloudinary.com/zenbusiness/q_auto,w_765/v1670445040/logaster/logaster-2018-12-gimp-pros-and-cons.jpg" alt="Program Logo"/>
 </div>
 
 <div align="center">
